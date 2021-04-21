@@ -71,10 +71,10 @@
 </a>
 </pre>
 
-
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag270&show_icons=true&locale=en&layout=compact" alt="chirag270" /></p>
-<br><br><br>
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag270&show_icons=true&locale=en" alt="chirag270" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirag270&" alt="chirag270" /></p>
