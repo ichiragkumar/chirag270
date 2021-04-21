@@ -69,6 +69,7 @@
   <a href="https://unrealengine.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40"              height="40"/> 
 </a>
+<br>
 </p>
 
 <br>
@@ -77,6 +78,6 @@
 <br><br>
 &nbsp;
 &nbsp;
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag270&show_icons=true&locale=en" alt="chirag270" /></p>
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag270&show_icons=true&locale=en" alt="chirag270" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirag270&" alt="chirag270" /></p>
