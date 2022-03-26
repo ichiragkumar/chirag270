@@ -29,7 +29,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<a href="  https://chirag270.github.io/portfolio01/" target="_blank"> On Going PortFolio </a> 
+<a href="https://chirag270.github.io/portfolio01/" target="_blank"> On Going PortFolio </a> 
 <p align="left">
 
 
