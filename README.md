@@ -6,5 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ichiragkumar&label=Profile%20views&color=0e75b6&style=flat" alt="chirag270=" /> </p>
 
-
-<h1>RENOVATION IN PROGRESS</h1>
+<center>
+<h1 bgcolor="RED">RENOVATION IN PROGRESS</h1>
+</center>
