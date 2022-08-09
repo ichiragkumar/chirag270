@@ -13,4 +13,4 @@
 
 <hr/>
 
-<h2>-------------                                I Can & I Will Watch Me -------------------</h2>
+<h1> I Can & I Will Watch Me -------------------</h1>
